@@ -90,8 +90,32 @@
                 <%= nombre%>
             </td>
         </tr>
+        <tr>
+            <td>
+                Estatura
+            </td>
+            <td>
+                <%= estatura%>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Edad
+            </td>
+            <td>
+                <%= edad%>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Localidad
+            </td>
+            <td>
+                <%= localidad%>
+            </td>
+        </tr>
     </table>
-
+    <a href="index.jsp">Volver</a>
 
 <%
 

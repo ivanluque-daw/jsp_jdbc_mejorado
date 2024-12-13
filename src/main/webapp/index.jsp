@@ -15,6 +15,10 @@
 <a href="formularioSocio.jsp">Fomulario de Socio Nuevo</a>
 <br>
 <a href="pideNumeroSocio.jsp">Pide de Socios</a>
+<br>
+<a href="listadoEntrenamientos.jsp">Listado de entrenamientos</a>
+<br>
+<a href="formularioEntrenamiento.jsp">Formulario de entrenamiento nuevo</a>
 
 <form action="detalleSocio.jsp">
     Cargar socio con ID:
